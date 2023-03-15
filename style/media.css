@@ -41,6 +41,13 @@
        .footer .container {
         flex-direction: column;
        }
+    
+           .leader__card{
+        justify-content: center;
+    }
+    .inf2{
+        justify-content: center;
+    }
 }
 @media(max-width:768px){
     .container{
@@ -56,6 +63,20 @@
         width: 100%;
         flex-direction: column;
     }
+    
+     .section__box2{
+        flex-direction: column;
+        
+    }
+    
+    
+     h3{
+        padding-top: 30px;
+    }
+
+    .main .container {
+        justify-content: center;
+    
 }
 @media(max-width:576px){
     .container{
