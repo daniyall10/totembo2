@@ -9,6 +9,19 @@
        .inf2{
         flex-direction: column;
        }
+    
+        .leader__cards{
+        justify-content: center;
+       }
+
+    .news__card{
+        flex-direction: column;
+        max-width: 570px;
+    }
+    .news__cards{
+        flex-direction: column;
+        max-width: 570px;
+    }
 }
 @media(max-width:992px){
     .container{
